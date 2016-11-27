@@ -1,7 +1,7 @@
 {
-  "name": "Qui-suis-je?",
+  "name": "Quisuisje",
   "cozy-type": "static",
-  "cozy-displayName": "Qui-suis-je?",
+  "cozy-displayName": "Qui suis-je?",
   "version": "1.0.0",
   "description": "Vous connaissez vous vraiment? Nous oui!",
   "icon-path": "main_icon.png"
